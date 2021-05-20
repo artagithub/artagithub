@@ -1,16 +1,11 @@
-### Hi there 👋
+# 👋 Hi, I’m Arta Salahesh
+- 🔭 I'm currently working on [Upwork](https://www.upwork.com/freelancers/~018b3df371a655e302)
+- 👀 I am interested in the latest technologies,music, sport
+- 🌱 I’m currently learning Docker,Kubernetes,React,Go
+- 💞️ I’m looking to collaborate on Banking switch project
+- 📫 How to reach me with email artssalahesh@gmail.com
 
-<!--
-**artagithub/artagithub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!---
+It's my pleasure to learn and share. 💞️💞️
+I am currently an enthusiast to create a blog to write about programming and tech. 👀
+--->
