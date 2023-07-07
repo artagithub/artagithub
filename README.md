@@ -1,5 +1,4 @@
 # 👋 Hi, I’m Arta Salahesh
-- 🔭 I'm currently working on Dotin(Remote)
 - 👀 I am interested in the latest technologies,music, sport
 - 🌱 I’m currently learning Docker,Kubernetes,React,Go
 - 💞️ I’m looking to collaborate on wonderful projects
